@@ -1,0 +1,11 @@
+# venv
+.ocr
+
+# pycache
+__pycache__
+
+# ipynb
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache
